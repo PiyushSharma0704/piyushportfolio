@@ -65,11 +65,11 @@ const Experience = () => {
       name="experience__container"
       id="experience"
       className="w-full h-screen p-4 bg-gradient-to-b from-gray-800
-  to-black"
+  to-black pt-16 pb-16"
     >
       <div
         className="max-w-screen-lg mx-auto p-8 flex flex-col 
-      justify-center w-full h-screen text-white mt-20"
+      justify-center w-full h-screen text-white mt-20 "
       >
         <div>
           <p
