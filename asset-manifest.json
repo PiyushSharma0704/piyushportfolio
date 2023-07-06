@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/piyushportfolio/static/css/main.cdf7c044.css",
+    "main.js": "/piyushportfolio/static/js/main.1f752dc9.js",
+    "static/media/reactoldcarsell.png": "/piyushportfolio/static/media/reactoldcarsell.d4f9ad24665d162d7d51.png",
+    "static/media/newsmatters.png": "/piyushportfolio/static/media/newsmatters.c0b5cb0b446711dcb0f5.png",
+    "static/media/reactAmzClone.png": "/piyushportfolio/static/media/reactAmzClone.34d8c9a87906420a6444.png",
+    "static/media/firebase.png": "/piyushportfolio/static/media/firebase.6f1a1b336c5d7f5b6a79.png",
+    "static/media/react.png": "/piyushportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/heroImage1.jpg": "/piyushportfolio/static/media/heroImage1.ec0779f93ac09c5452f5.jpg",
+    "static/media/text.png": "/piyushportfolio/static/media/text.ef8666f25595a357bbc3.png",
+    "static/media/mynote.png": "/piyushportfolio/static/media/mynote.e40a08ef318f2e5f7b73.png",
+    "static/media/github.png": "/piyushportfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/MongoDB.jpg": "/piyushportfolio/static/media/MongoDB.b9e24b8bb2aef42f7ee6.jpg",
+    "static/media/html.png": "/piyushportfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/piyushportfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/piyushportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/piyushportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/piyushportfolio/index.html",
+    "main.cdf7c044.css.map": "/piyushportfolio/static/css/main.cdf7c044.css.map",
+    "main.1f752dc9.js.map": "/piyushportfolio/static/js/main.1f752dc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf7c044.css",
+    "static/js/main.1f752dc9.js"
+  ]
+}
