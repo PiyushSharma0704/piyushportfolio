@@ -54,7 +54,7 @@ const Footer = () => {
           <HiOutlineMail size={30} />
         </a>
         <a
-          href="/PiyushResume.pdf"
+          href= "/PiyushResume.pdf"
           className="bg-gray-500 hover:scale-150 duration-200 p-2"
         >
           <BsFillPersonLinesFill size={30} />
